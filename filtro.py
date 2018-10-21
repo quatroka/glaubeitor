@@ -6,4 +6,4 @@ WORDS_NOT_FOR_JOKE = ['mina', 'mulher', 'loira', 'preto', 'negro', 'vtnc', 'pqp'
                       'Roller', 'cuscuz?', 'cuscuz', 'espagueto', 'bunda?', 'comunistas', 'como vai?', 'jegue', 'cocaína?', 'cocaína', 'próstata?',
                       'próstata', 'câncer', 'constipação', 'não tem geladeira em casa?', 'Marca-cu', 'anais', 'rivaldo', 'iupac', 'suicídio.', 'morte'
                       'subita', 'órfão', 'candidato', 'garotos de programa', 'isadora', 'daciolo', 'bonoro', 'branco',
-                      'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista']
+                      'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista', 'namorada']
