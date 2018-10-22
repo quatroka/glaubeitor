@@ -6,5 +6,6 @@ WORDS_NOT_FOR_JOKE = ['mina', 'mulher', 'loira', 'preto', 'negro', 'vtnc', 'pqp'
                       'Roller', 'cuscuz?', 'cuscuz', 'espagueto', 'bunda?', 'comunistas', 'como vai?', 'jegue', 'cocaína?', 'cocaína', 'próstata?',
                       'próstata', 'câncer', 'constipação', 'não tem geladeira em casa?', 'Marca-cu', 'anais', 'rivaldo', 'iupac', 'suicídio.', 'morte'
                       'subita', 'órfão', 'candidato', 'garotos de programa', 'isadora', 'daciolo', 'bonoro', 'branco',
-                      'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista', 'namorada','tem down', 'are you cego', 'disgraça', 'desgraça'
-                      'tu tem down?', 'nigga', 'retardado', 'puta', 'rapariga']
+                      'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista', 'namorada', 'fresco', 'rapariga', 'demencia', 'down', 'rola'
+                      'cacete', 'cego', 'tu tem down!', 'voce tem down', 'vc tem down', 'vc em down?', 'vsfd', 'vá se foder', 'vá se fuder', 'pqp'
+                      'retardado mental', 'nigga', 'neguin', 'nego', 'preto', 'escurinho', 'escuro']
