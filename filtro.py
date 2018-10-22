@@ -8,4 +8,4 @@ WORDS_NOT_FOR_JOKE = ['mina', 'mulher', 'loira', 'preto', 'negro', 'vtnc', 'pqp'
                       'subita', 'órfão', 'candidato', 'garotos de programa', 'isadora', 'daciolo', 'bonoro', 'branco',
                       'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista', 'namorada', 'fresco', 'rapariga', 'demencia', 'down', 'rola'
                       'cacete', 'cego', 'tu tem down!', 'voce tem down', 'vc tem down', 'vc em down?', 'vsfd', 'vá se foder', 'vá se fuder', 'pqp'
-                     'retardado mental', 'nigga', 'neguin', 'nego', 'preto', 'escurinho', 'escuro']
+                      'retardado mental', 'nigga', 'neguin', 'nego', 'preto', 'escurinho', 'escuro']
