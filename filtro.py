@@ -7,4 +7,4 @@ WORDS_NOT_FOR_JOKE = ['mina', 'mulher', 'loira', 'preto', 'negro', 'vtnc', 'pqp'
                       'próstata', 'câncer', 'constipação', 'não tem geladeira em casa?', 'Marca-cu', 'anais', 'rivaldo', 'iupac', 'suicídio.', 'morte'
                       'subita', 'órfão', 'candidato', 'garotos de programa', 'isadora', 'daciolo', 'bonoro', 'branco',
                       'pinta', 'mete', 'puteiro', 'stevie wonder', 'comunista', 'namorada','tem down', 'are you cego', 'disgraça', 'desgraça'
-                      'tu tem down?', 'nigga', 'retardado']
+                      'tu tem down?', 'nigga', 'retardado', 'puta', 'rapariga']
